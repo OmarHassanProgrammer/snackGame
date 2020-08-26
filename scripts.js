@@ -1,3 +1,11 @@
+
+function getSVG(source)
+     {
+             xmlhttp = new XMLHttpRequest();
+             xmlhttp.open("GET", source, false);
+             xmlhttp.send();
+             return "data:image/svg+xml," + xmlhttp.responseText;
+     }
 /************************** pages ************************/
 let pages = document.querySelector(".pages");
     firstPage = document.querySelector(".page.first-page"),
