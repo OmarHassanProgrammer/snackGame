@@ -1,0 +1,583 @@
+[
+    {
+        "level": 1,
+        "x": 180,
+        "y": 45,
+        "dir": "r",
+        "difficulties": [
+            {
+                "difficulty": "easy",
+                "configs": {
+                    "time": 180,
+                    "goal": 1,
+                    "firstSpeed": 5,
+                    "additionSpeed": ".15",
+                    "startBlocks": 3
+                }
+            },
+            {
+                "difficulty": "medium",
+                "configs": {
+                    "time": 180,
+                    "goal": 60,
+                    "firstSpeed": 5,
+                    "additionSpeed": ".3",
+                    "startBlocks": 4
+                }
+            },
+            {
+                "difficulty": "hard",
+                "configs": {
+                    "time": 180,
+                    "goal": 80,
+                    "firstSpeed": 3,
+                    "additionSpeed": ".5",
+                    "startBlocks": 8
+                }
+            }
+        ],
+        "obstacles": [
+            [390, 240, [[true]]]
+        ]
+    },
+    {
+        "level": 2,
+        "x": 180,
+        "y": 45,
+        "dir": "r",
+        "difficulties": [
+            {
+                "difficulty": "easy",
+                "configs": {
+                    "time": 210,
+                    "goal": 1,
+                    "firstSpeed": 10,
+                    "additionSpeed": ".1",
+                    "startBlocks": 2
+                }
+            },
+            {
+                "difficulty": "medium",
+                "configs": {
+                    "time": 210,
+                    "goal": 70,
+                    "firstSpeed": 10,
+                    "additionSpeed": ".01",
+                    "startBlocks": 2
+                }
+            },
+            {
+                "difficulty": "hard",
+                "configs": {
+                    "time": 210,
+                    "goal": 90,
+                    "firstSpeed": 10,
+                    "additionSpeed": ".0000001",
+                    "startBlocks": 8
+                }
+            }
+        ],
+        "obstacles": [
+            [0, 0, [
+                [true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true]                
+            ]],
+            [0, 15, [
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true]
+            ]],
+            [15, 480, [
+                [true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true]                
+            ]],
+            [780, 15, [
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true]
+            ]]
+        ]
+    },
+    {
+        "level": 3,
+        "x": 180,
+        "y": 45,
+        "dir": "r",
+        "difficulties": [
+            {
+                "difficulty": "easy",
+                "configs": {
+                    "time": 60,
+                    "goal": 10,
+                    "firstSpeed": 4,
+                    "additionSpeed": ".8",
+                    "startBlocks": 5
+                }
+            },
+            {
+                "difficulty": "medium",
+                "configs": {
+                    "time": 60,
+                    "goal": 20,
+                    "firstSpeed": 4,
+                    "additionSpeed": ".8",
+                    "startBlocks": 5
+                }
+            },
+            {
+                "difficulty": "hard",
+                "configs": {
+                    "time": 60,
+                    "goal": 30,
+                    "firstSpeed": 4,
+                    "additionSpeed": ".1",
+                    "startBlocks": 10
+                }
+            }
+        ],
+        "obstacles": [
+            [0, 0, [
+                [true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, true],
+                [true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, true, true],
+                [false, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, true, true, false],
+                [false, false, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, true, true, false, false],
+                [false, false, false, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, true, true, false, false, false],
+                [false, false, false, false, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, true, true, false, false, false, false],
+                [false, false, false, false, false, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, true, true, false, false, false, false, false],
+                [false, false, false, false, false, false, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, true, true, false, false, false, false, false, false],
+                [false, false, false, false, false, false, false, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, true, true, false, false, false, false, false, false, false],
+                [false, false, false, false, false, false, false, false, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, true, true, false, false, false, false, false, false, false, false],
+                [false, false, false, false, false, false, false, false, false, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, true, true, false, false, false, false, false, false, false, false, false],
+                [false, false, false, false, false, false, false, false, false, false, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, true, true, false, false, false, false, false, false, false, false, false, false],
+                [false, false, false, false, false, false, false, false, false, false, false, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, true, true, false, false, false, false, false, false, false, false, false, false, false],
+                [false, false, false, false, false, false, false, false, false, false, false, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, false, false, false, false, false, false, false, false, false, false, false]
+                
+    
+            ]],
+            [390, 210, [
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true]
+            ]]
+        ]
+    },
+    {
+        "level": 4,
+        "dir": "u",
+        "x": 390,
+        "y": 345, 
+        "difficulties": [
+            {
+                "difficulty": "easy",
+                "configs": {
+                    "time": 30,
+                    "goal": 10,
+                    "firstSpeed": 7,
+                    "additionSpeed": ".5",
+                    "startBlocks": 4
+                }
+            },
+            {
+                "difficulty": "medium",
+                "configs": {
+                    "time": 30,
+                    "goal": 7,
+                    "firstSpeed": 7,
+                    "additionSpeed": ".3",
+                    "startBlocks": 4
+                }
+            },
+            {
+                "difficulty": "hard",
+                "configs": {
+                    "time": 30,
+                    "goal": 7,
+                    "firstSpeed": 7,
+                    "additionSpeed": ".1",
+                    "startBlocks": 4
+                }
+            }
+        ],
+        "obstacles": [
+            [0, 0, [
+                [true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true]
+            ]],
+            [0, 315, [
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true]
+            ]],
+            [780, 15, [
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [false],
+                [false],
+                [false],
+                [false],
+                [false],
+                [false],
+                [false],
+                [false],
+                [false],
+                [false],
+                [false],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true]
+    
+            ]],
+            [240, 225, [
+                [true, true, true, true, true, true, true, true, true, false, false, false, true, true, true, true, true, true, true, true, true],
+                [false, false, false, false, false, false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false],
+                [true, true, true, true, true, true, true, true, true, false, false, false, true, true, true, true, true, true, true, true, true]
+            ]],
+            [375, 150, [
+                [true, false, true],
+                [true, false, true],
+                [true, false, true],
+                [true, false, true],
+                [true, false, true],
+                [false],
+                [false],
+                [false],
+                [true, false, true],
+                [true, false, true],
+                [true, false, true],
+                [true, false, true],
+                [true, false, true]
+            ]]
+        ]
+    },
+    {
+        "level": 5,
+        "dir": "l",
+        "x": 675,
+        "y": 465, 
+        "difficulties": [
+            {
+                "difficulty": "easy",
+                "configs": {
+                    "time": 90,
+                    "goal": 15,
+                    "firstSpeed": 3,
+                    "additionSpeed": "1",
+                    "startBlocks": 4
+                }
+            },
+            {
+                "difficulty": "medium",
+                "configs": {
+                    "time": 90,
+                    "goal": 20,
+                    "firstSpeed": 3,
+                    "additionSpeed": ".5",
+                    "startBlocks": 4
+                }
+            },
+            {
+                "difficulty": "hard",
+                "configs": {
+                    "time": 90,
+                    "goal": 30,
+                    "firstSpeed": 4,
+                    "additionSpeed": ".4",
+                    "startBlocks": 4
+                }
+            }
+        ],
+        "obstacles": [
+            [0, 0, [
+                [true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true]                
+            ]],
+            [0, 15, [
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true],
+                [true, false, false, false, true, false, false, false, true, false, false, false, true, false, false, false, true, false, false, false, true, false, false, false, true, false, false, false, true, false, false, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true],
+                [false, false, true, false, false ,false, true, false ,false, false, true, false ,false, false, true, false ,false, false, true, false ,false, false, true, false ,false, false, true, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, true],
+                [true]
+            ]],
+            [15, 480, [
+                [true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true]                
+            ]],
+            [780, 15, [
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [true],
+                [false]
+            ]]
+        ]
+    },
+    {
+        "level": 6,
+        "dir": "l",
+        "x": 675,
+        "y": 465, 
+        "difficulties": [
+            {
+                "difficulty": "easy",
+                "configs": {
+                    "time": 300,
+                    "goal": 6,
+                    "firstSpeed": 6,
+                    "additionSpeed": ".2",
+                    "startBlocks": 4
+                }
+            },
+            {
+                "difficulty": "medium",
+                "configs": {
+                    "time": 300,
+                    "goal": 8,
+                    "firstSpeed": 6,
+                    "additionSpeed": ".1",
+                    "startBlocks": 4
+                }
+            },
+            {
+                "difficulty": "hard",
+                "configs": {
+                    "time": 240,
+                    "goal": 12,
+                    "firstSpeed": 6,
+                    "additionSpeed": ".5",
+                    "startBlocks": 4
+                }
+            }
+        ],
+        "obstacles": [
+            [0, 0, [
+                [true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true]                
+            ]],
+            [0, 15, [
+                [false],
+                [true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true],
+                [false],
+                [true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, true, true],
+                [false],
+                [true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, true],
+                [false],
+                [true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true],
+                [false],
+                [true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, true, true],
+                [false],
+                [true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, true],
+                [false],
+                [true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true, true, true],
+                [false],
+                [true, true, true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true, true],
+                [false],
+                [true, true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true],
+                [false],
+                [true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true],
+                [false],
+                [true, true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true],
+                [false],
+                [true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true],
+                [false],
+                [true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true],
+                [false],
+                [true, true, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true],
+                [false],
+                [true, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true],
+                [false],
+                [true]
+            ]],
+            [15, 480, [
+                [true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true]                
+            ]],
+            [780, 15, [
+                [false],
+                [true],
+                [false],
+                [true],
+                [false],
+                [true],
+                [false],
+                [true],
+                [false],
+                [true],
+                [false],
+                [true],
+                [false],
+                [true],
+                [false],
+                [true],
+                [false],
+                [true],
+                [false],
+                [true],
+                [false],
+                [true],
+                [false],
+                [true],
+                [false],
+                [true],
+                [false],
+                [true],
+                [false],
+                [true],
+                [false]
+            ]]
+        ]
+    }
+]
