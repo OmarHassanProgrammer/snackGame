@@ -139,11 +139,11 @@ Open index.html is your browser
 <!-- ROADMAP -->
 ## Roadmap
 
-- [] Time-based apple munching challenges.
-- [] Boost munching with special potions.
-- [] Dodge challenging worm apples.
-- [] Create and share custom levels.
-- [] Compete with friends in friendly matches.
+- [x] Time-based apple munching challenges.
+- [x] Boost munching with special potions.
+- [x] Dodge challenging worm apples.
+- [x] Create and share custom levels.
+- [x] Compete with friends in friendly matches.
 
 See the [open issues](https://github.com/OmarHassanProgrammer/snackGame/issues) for a full list of proposed features (and known issues).
 
