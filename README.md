@@ -1,4 +1,4 @@
-![image](https://github.com/OmarHassanProgrammer/snackGame/assets/57256920/8da59641-6464-46c9-b17f-ee299e8a7559)<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+![image](images/screenshot.png)<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
