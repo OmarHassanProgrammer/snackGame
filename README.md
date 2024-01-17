@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+![image](https://github.com/OmarHassanProgrammer/snackGame/assets/57256920/8da59641-6464-46c9-b17f-ee299e8a7559)<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -80,7 +80,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://omarhassanprogrammer.github.io/snackGame/)
 
 <h4>Introduction:</h4>
 Welcome to "Apple Muncher Mania," a delightful snack game that combines fun, strategy, and a hint of competition! Immerse yourself in a world of juicy apples, tempting potions, and a challenging race against time.
@@ -139,11 +139,11 @@ Open index.html is your browser
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Race against time, munching through levels.
-- [ ] Use strategic potions for a munching boost.
-- [ ] Dodge tricky worm apples for added challenge.
-- [ ] Design and share custom levels.
-- [ ] Friendly competition with friends.
+- [] Time-based apple munching challenges.
+- [] Boost munching with special potions.
+- [] Dodge challenging worm apples.
+- [] Create and share custom levels.
+- [] Compete with friends in friendly matches.
 
 See the [open issues](https://github.com/OmarHassanProgrammer/snackGame/issues) for a full list of proposed features (and known issues).
 
