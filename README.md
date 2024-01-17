@@ -229,9 +229,9 @@ Project Link: [https://github.com/OmarHassanProgrammer/snackGame](https://github
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-[Js.com]: https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F0DB4F
+[Js.com]: https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330
 [Js-url]: http://vanilla-js.com/
-[CSS3.com]: https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=264de4
+[CSS3.com]: https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=264de4
 [CSS3-url]: https://www.tutorialspoint.com/css/css3_tutorial.htm
-[HTML5.com]: https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=e34c26
+[HTML5.com]: https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=html5&logoColor=e34c26
 [HTML5-url]: https://en.wikipedia.org/wiki/HTML5
